@@ -1,4 +1,4 @@
-# 📚 Exercício de Estrutura de Pastas e Arquivos no React 📁📂
+# 📚 Exercício de Estrutura de Pastas e Arquivos no React 
 
 ## Objetivo 📝
 
