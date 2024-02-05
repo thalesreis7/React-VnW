@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    /* border: solid 1px red; */
+    height: 10vh;
+    background-color: rgb(37, 11, 11);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: darkgoldenrod;
+}
+
+main {
+    /* border: solid 1px green; */
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main p {
+    /* border: solid 1px red; */
+    width: 95%;
+    color: darkgoldenrod;
+    font-size: 2.5rem;
+    text-align: left;
+}
+
+footer {
+    /* border: solid 1px red; */
+    height: 10vh;
+    background-color: rgb(37, 11, 11);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: darkgoldenrod;
+}
+
+
+
